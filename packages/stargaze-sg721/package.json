@@ -1,5 +1,7 @@
 {
-  "name": "@cosmjson/stargaze",
+  "name": "@cosmjson/stargaze-sg721",
+  "chain": "stargaze",
+  "contract": "sg721",
   "version": "0.0.3",
   "description": "stargaze",
   "author": "Dan Lynch <pyramation@gmail.com>",
