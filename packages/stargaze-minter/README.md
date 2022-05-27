@@ -1,1 +1,1 @@
-# Stargaze
+# Stargaze minter
