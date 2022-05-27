@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.0.7 (2022-05-27)
+
+**Note:** Version bump only for package @cosmjson/stargaze-royalty-group
+
+
+
+
+
 ## [0.0.6](https://github.com/cosmology-finance/cosmjson/compare/@cosmjson/stargaze-minter@0.0.5...@cosmjson/stargaze-minter@0.0.6) (2022-05-27)
 
 **Note:** Version bump only for package @cosmjson/stargaze-minter

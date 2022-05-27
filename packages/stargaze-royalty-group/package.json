@@ -2,7 +2,7 @@
   "name": "@cosmjson/stargaze-royalty-group",
   "chain": "stargaze",
   "contract": "royalty-group",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "stargaze",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/cosmology-finance/cosmjson/tree/master/packages/stargaze#readme",

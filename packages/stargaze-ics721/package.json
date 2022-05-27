@@ -2,7 +2,7 @@
   "name": "@cosmjson/stargaze-ics721",
   "chain": "stargaze",
   "contract": "ics721",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "stargaze",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/cosmology-finance/cosmjson/tree/master/packages/stargaze#readme",
