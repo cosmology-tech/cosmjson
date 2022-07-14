@@ -2,7 +2,7 @@
   "name": "@cosmjson/stargaze-minter",
   "chain": "stargaze",
   "contract": "minter",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "stargaze",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/cosmology-tech/cosmjson/tree/master/packages/stargaze#readme",

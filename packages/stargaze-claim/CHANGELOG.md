@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.8](https://github.com/cosmology-tech/cosmjson/compare/@cosmjson/stargaze-claim@0.0.7...@cosmjson/stargaze-claim@0.0.8) (2022-07-14)
+
+**Note:** Version bump only for package @cosmjson/stargaze-claim
+
+
+
+
+
 ## 0.0.7 (2022-05-27)
 
 **Note:** Version bump only for package @cosmjson/stargaze-claim
