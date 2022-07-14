@@ -11,7 +11,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.6](https://github.com/cosmology-finance/cosmjson/compare/@cosmjson/stargaze-minter@0.0.5...@cosmjson/stargaze-minter@0.0.6) (2022-05-27)
+## [0.0.6](https://github.com/cosmology-tech/cosmjson/compare/@cosmjson/stargaze-minter@0.0.5...@cosmjson/stargaze-minter@0.0.6) (2022-05-27)
 
 **Note:** Version bump only for package @cosmjson/stargaze-minter
 
@@ -19,7 +19,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.5](https://github.com/cosmology-finance/cosmjson/compare/@cosmjson/stargaze-minter@0.0.4...@cosmjson/stargaze-minter@0.0.5) (2022-05-26)
+## [0.0.5](https://github.com/cosmology-tech/cosmjson/compare/@cosmjson/stargaze-minter@0.0.4...@cosmjson/stargaze-minter@0.0.5) (2022-05-26)
 
 **Note:** Version bump only for package @cosmjson/stargaze-minter
 
