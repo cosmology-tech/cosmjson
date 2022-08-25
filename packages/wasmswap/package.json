@@ -2,7 +2,7 @@
   "name": "@cosmjson/wasmswap",
   "chain": "juno",
   "contract": "wasmswap",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "wasmswap",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/cosmology-tech/cosmjson/tree/master/packages/wasmswap#readme",
