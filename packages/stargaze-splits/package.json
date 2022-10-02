@@ -2,7 +2,7 @@
   "name": "@cosmjson/stargaze-splits",
   "chain": "stargaze",
   "contract": "splits",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "stargaze",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/cosmology-tech/cosmjson/tree/master/packages/stargaze#readme",
