@@ -3,30 +3,30 @@
   "title": "ConfigResponse",
   "type": "object",
   "required": [
-    "end_time",
-    "is_active",
-    "member_limit",
+    "admin",
+    "base_token_uri",
+    "factory",
     "mint_price",
-    "num_members",
+    "num_tokens",
     "per_address_limit",
+    "sg721_address",
+    "sg721_code_id",
     "start_time"
   ],
   "properties": {
-    "end_time": {
-      "$ref": "#/definitions/Timestamp"
+    "admin": {
+      "type": "string"
     },
-    "is_active": {
-      "type": "boolean"
+    "base_token_uri": {
+      "type": "string"
     },
-    "member_limit": {
-      "type": "integer",
-      "format": "uint32",
-      "minimum": 0.0
+    "factory": {
+      "type": "string"
     },
     "mint_price": {
       "$ref": "#/definitions/Coin"
     },
-    "num_members": {
+    "num_tokens": {
       "type": "integer",
       "format": "uint32",
       "minimum": 0.0
@@ -36,8 +36,22 @@
       "format": "uint32",
       "minimum": 0.0
     },
+    "sg721_address": {
+      "type": "string"
+    },
+    "sg721_code_id": {
+      "type": "integer",
+      "format": "uint64",
+      "minimum": 0.0
+    },
     "start_time": {
       "$ref": "#/definitions/Timestamp"
+    },
+    "whitelist": {
+      "type": [
+        "string",
+        "null"
+      ]
     }
   },
   "definitions": {

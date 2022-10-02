@@ -1,0 +1,20 @@
+{
+  "name": "@cosmjson/stargaze-sg721-base",
+  "chain": "stargaze",
+  "contract": "sg721-base",
+  "version": "0.0.7",
+  "description": "stargaze",
+  "author": "Dan Lynch <pyramation@gmail.com>",
+  "homepage": "https://github.com/cosmology-tech/cosmjson/tree/master/packages/stargaze#readme",
+  "license": "SEE LICENSE IN LICENSE",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cosmology-tech/cosmjson"
+  },
+  "bugs": {
+    "url": "https://github.com/cosmology-tech/cosmjson/issues"
+  }
+}
